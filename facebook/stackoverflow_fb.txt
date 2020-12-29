@@ -17,3 +17,8 @@ https://github.com/apurvmishra99/facebook-scraper-selenium
 
 https://github.com/talhashraf/major-scrapy-spiders
 https://github.com/DIYgod/RSSHub
+
+https://stackoverflow.com/questions/26857767/retrieve-post-of-a-facebook-page-using-facebook-api-python
+https://stackoverflow.com/questions/60284839/getting-all-my-public-posts-using-facebook-graph-api
+https://stackoverflow.com/questions/51221607/how-to-get-the-facebook-public-page-content-access-just-to-extract-data
+https://github.com/LorenzoMonti/facebook_page_group_comments
